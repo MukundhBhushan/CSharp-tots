@@ -1,0 +1,11 @@
+D:\projects\c#_pro\ImpCommands\ImpCodes\obj\Debug\netcoreapp2.1\ImpCodes.csprojAssemblyReference.cache
+D:\projects\c#_pro\ImpCommands\ImpCodes\obj\Debug\netcoreapp2.1\ImpCodes.csproj.CoreCompileInputs.cache
+D:\projects\c#_pro\ImpCommands\ImpCodes\obj\Debug\netcoreapp2.1\ImpCodes.AssemblyInfoInputs.cache
+D:\projects\c#_pro\ImpCommands\ImpCodes\obj\Debug\netcoreapp2.1\ImpCodes.AssemblyInfo.cs
+D:\projects\c#_pro\ImpCommands\ImpCodes\bin\Debug\netcoreapp2.1\ImpCodes.deps.json
+D:\projects\c#_pro\ImpCommands\ImpCodes\bin\Debug\netcoreapp2.1\ImpCodes.runtimeconfig.json
+D:\projects\c#_pro\ImpCommands\ImpCodes\bin\Debug\netcoreapp2.1\ImpCodes.runtimeconfig.dev.json
+D:\projects\c#_pro\ImpCommands\ImpCodes\bin\Debug\netcoreapp2.1\ImpCodes.dll
+D:\projects\c#_pro\ImpCommands\ImpCodes\bin\Debug\netcoreapp2.1\ImpCodes.pdb
+D:\projects\c#_pro\ImpCommands\ImpCodes\obj\Debug\netcoreapp2.1\ImpCodes.dll
+D:\projects\c#_pro\ImpCommands\ImpCodes\obj\Debug\netcoreapp2.1\ImpCodes.pdb

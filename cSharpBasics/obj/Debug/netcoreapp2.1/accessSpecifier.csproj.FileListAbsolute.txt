@@ -1,0 +1,4 @@
+D:\projects\c#_pro\cSharpBasics\obj\Debug\netcoreapp2.1\accessSpecifier.csprojAssemblyReference.cache
+D:\projects\c#_pro\cSharpBasics\obj\Debug\netcoreapp2.1\accessSpecifier.csproj.CoreCompileInputs.cache
+D:\projects\c#_pro\cSharpBasics\obj\Debug\netcoreapp2.1\accessSpecifier.AssemblyInfoInputs.cache
+D:\projects\c#_pro\cSharpBasics\obj\Debug\netcoreapp2.1\accessSpecifier.AssemblyInfo.cs
