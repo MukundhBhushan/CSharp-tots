@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mukundhbhushan/Desktop/projects/CSharp-tots/ImpCommands/ImpCodes/ImpCodes.csproj",
-      "projectName": "ImpCodes",
-      "projectPath": "/Users/mukundhbhushan/Desktop/projects/CSharp-tots/ImpCommands/ImpCodes/ImpCodes.csproj",
+      "projectUniqueName": "/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/LINQ_tots.csproj",
+      "projectName": "LINQ_tots",
+      "projectPath": "/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/LINQ_tots.csproj",
       "packagesPath": "/Users/mukundhbhushan/.nuget/packages/",
-      "outputPath": "/Users/mukundhbhushan/Desktop/projects/CSharp-tots/ImpCommands/ImpCodes/obj",
+      "outputPath": "/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

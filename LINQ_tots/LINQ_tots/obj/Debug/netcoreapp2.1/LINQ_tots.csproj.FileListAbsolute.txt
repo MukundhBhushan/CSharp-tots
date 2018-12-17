@@ -1,0 +1,11 @@
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/bin/Debug/netcoreapp2.1/LINQ_tots.deps.json
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/bin/Debug/netcoreapp2.1/LINQ_tots.runtimeconfig.json
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/bin/Debug/netcoreapp2.1/LINQ_tots.runtimeconfig.dev.json
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/bin/Debug/netcoreapp2.1/LINQ_tots.dll
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/bin/Debug/netcoreapp2.1/LINQ_tots.pdb
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/obj/Debug/netcoreapp2.1/LINQ_tots.csprojAssemblyReference.cache
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/obj/Debug/netcoreapp2.1/LINQ_tots.csproj.CoreCompileInputs.cache
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/obj/Debug/netcoreapp2.1/LINQ_tots.AssemblyInfoInputs.cache
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/obj/Debug/netcoreapp2.1/LINQ_tots.AssemblyInfo.cs
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/obj/Debug/netcoreapp2.1/LINQ_tots.dll
+/Users/mukundhbhushan/Desktop/projects/CSharp-tots/LINQ_tots/LINQ_tots/obj/Debug/netcoreapp2.1/LINQ_tots.pdb
