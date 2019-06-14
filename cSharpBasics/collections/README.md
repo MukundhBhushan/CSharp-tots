@@ -1,0 +1,1 @@
+this contains basics syntaxes and implimentation of the basics collections in C# 
