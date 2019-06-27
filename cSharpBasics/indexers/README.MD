@@ -6,3 +6,7 @@ if get assesser only is implimented then the values can only be assesed not set
 if values are to be set impliment the set asseser 
 type cast the variables to appropreat types while using the set asseser
 the value keyword is used while setting values to the objects it hold the datatype "object"
+
+Indexer traets object as an array
+Indexer containes "this"keyword along with get set properties
+Indexers improves the performance

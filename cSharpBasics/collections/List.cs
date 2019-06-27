@@ -1,7 +1,10 @@
+using System.Collections.Generic;
+
 namespace collections
 {
     public class ListClass
     {
+        //generic type
         public List<int> list = new List<int>(); //create an object to access this list
         public static void Main()
         {
@@ -14,6 +17,10 @@ namespace collections
             listMain.Add(1);
             listMain.Add(2);
 
+            foreach (var item in listMain)
+            {
+                System.Console.WriteLine(item);
+            }
         }
     }
 }

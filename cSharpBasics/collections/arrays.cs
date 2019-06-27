@@ -3,6 +3,7 @@ namespace collections
     public class ArrayArrayClass
     {
         public int[] arr1 = new int[5]; //create an object to access this Array
+        public int[] arr2= {1,2,3,4,5};
         public static void Main()
         {
             ArrayClass obj = new ArrayClass(); //creating the object to access the array

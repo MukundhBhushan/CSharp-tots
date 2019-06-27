@@ -33,6 +33,7 @@ the abstract methods must be implimented by all the child classes (ie classes wh
 - abstract class can have constructor
 - does not support multiple inheritance
 - no obj can be created
+
 ##interface
 - has only method declaration but no implimentation
 - cannot give access modifier to interface
@@ -53,6 +54,7 @@ the abstract methods must be implimented by all the child classes (ie classes wh
 - to init the static prop we must use static constructor
 - obj cannot be created for static classes
 - all static members can be asscess with class reference
+
 #Partial class
 - divides the code into no of classes class name will be same for all the classes 
 - before class name "partial" keyword is to be used

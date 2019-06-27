@@ -4,11 +4,16 @@ namespace StaticClass
     {
         static string name;
         static int age;
-        static PersonDetails()
+        static PersonDetails() //static constructors
         {
             name = "Name";
             age = 19;
 
+        }
+
+        static print(string value)
+        {
+            System.Console.WriteLine(value);
         }
 
     }
@@ -19,6 +24,7 @@ namespace StaticClass
         {
             Console.Writeline(PersonDetails.name);
             Console.Writeline(PersonDetails.age);
+            print("hello"); //staic method no object is created to access
             Console.Read();
         }       
     }
